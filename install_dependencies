@@ -1,4 +1,4 @@
 #!/bin/bash
-yum install -y httpd > /root/vishwa.txt
+yum install -y httpd > /root/siddhanthhn.txt
 
 
